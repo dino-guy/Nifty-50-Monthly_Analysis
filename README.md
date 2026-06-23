@@ -1,31 +1,22 @@
-                                <h1 align="center">📈 Nifty 50 Technical Analysis</h1>
+<h1 align="center">📈 Nifty 50 Technical Analysis</h1>
 
 <p align="center">
   <b>Technical Analysis | TradingView | Excel | Risk Management</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Project-Finance-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Tools-TradingView-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Excel-Analysis-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
 </p>
 
 ---
 
 ## 🎯 Project Objective
 
-Analyze Nifty 50 stocks using technical analysis concepts and create trade setups based on trend, support, resistance, and risk-reward management.
+This project focuses on technical analysis of selected Nifty 50 stocks using price action concepts. The objective was to identify trends, support and resistance levels, and create trade setups based on risk-reward analysis.
 
 ---
 
 ## 🛠️ Tools Used
 
-| Tool            | Purpose               |
-| --------------- | --------------------- |
-| TradingView     | Chart Analysis        |
-| Microsoft Excel | Trade Journal         |
-| GitHub          | Project Documentation |
+* TradingView
+* Microsoft Excel
+* GitHub
 
 ---
 
@@ -33,37 +24,59 @@ Analyze Nifty 50 stocks using technical analysis concepts and create trade setup
 
 ### 1️⃣ Trend Analysis
 
-* Uptrend
-* Downtrend
-* Sideways Market
+* Identified Uptrend, Downtrend, and Sideways markets.
+* Analyzed price movement using TradingView charts.
 
 ### 2️⃣ Support & Resistance
 
-* Identified key demand zones
-* Marked major resistance levels
+* Marked key support levels where price showed buying interest.
+* Marked resistance levels where price faced selling pressure.
 
 ### 3️⃣ Trade Setup Creation
+
+For each stock:
 
 * Entry Price
 * Stop Loss
 * Target Price
 * Risk-Reward Ratio
 
-### 4️⃣ Performance Tracking
+### 4️⃣ Trade Documentation
 
-* Win Rate
-* Profit/Loss Analysis
-* Trade Journal
+* Recorded trade setups in Excel.
+* Maintained a structured trade journal.
+
+### 5️⃣ Performance Review
+
+* Evaluated trade outcomes.
+* Reviewed risk and reward metrics.
 
 ---
 
-## 📋 Sample Trade Setup
+## 📋 Stocks Analyzed
 
-| Stock     | Trend   | Entry | Stop Loss | Target | R:R |
-| --------- | ------- | ----- | --------- | ------ | --- |
-| Reliance  | Bullish | 1470  | 1440      | 1530   | 1:2 |
-| Infosys   | Bearish | 1920  | 1960      | 1840   | 1:2 |
-| HDFC Bank | Bullish | 2000  | 1960      | 2080   | 1:2 |
+| Stock               | Analysis Type                    |
+| ------------------- | -------------------------------- |
+| Reliance Industries | Technical Analysis & Trade Setup |
+| Infosys             | Technical Analysis & Trade Setup |
+
+---
+
+## 📸 Chart Analysis
+
+The project includes TradingView chart analysis for:
+
+* Reliance Industries
+* Infosys
+
+Each chart contains:
+
+* Trend Identification
+* Support & Resistance Levels
+* Entry Zone
+* Stop Loss
+* Target Level
+* Risk-Reward Analysis
 
 ---
 
@@ -83,12 +96,17 @@ Analyze Nifty 50 stocks using technical analysis concepts and create trade setup
 
 ## 🚀 Future Improvements
 
-* Order Block Analysis
-* BOS (Break of Structure)
-* MSS (Market Structure Shift)
-* Liquidity Analysis
-* Fair Value Gap (FVG)
+* Analyze additional Nifty 50 stocks
+* Improve trade tracking dashboard
+* Include advanced market structure analysis
+* Expand historical trade data
 
 ---
 
-⭐ If you found this project useful, feel free to explore the repository.
+## 👨‍💻 Author
+
+**Dineshkumar P**
+
+Aspiring Equity Research Analyst & Intraday Trader
+
+GitHub Portfolio Project
