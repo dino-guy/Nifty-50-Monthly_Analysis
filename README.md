@@ -105,12 +105,31 @@ For each stock:
 
 ---
 
-# 📋 Stocks Analyzed
+## 📋 Stocks Analyzed
 
-| Stock               | Analysis Type                    | Concepts Applied                                 |
-| ------------------- | -------------------------------- | ------------------------------------------------ |
-| Reliance Industries | Technical Analysis & Trade Setup | Support, Resistance, BOS, Liquidity, Risk-Reward |
-| Infosys             | Technical Analysis & Trade Setup | Support, Resistance, MSS, Liquidity, Risk-Reward |
+The project includes technical analysis of multiple Nifty 50 stocks across different sectors.
+
+| Stock               | Analysis Period |
+| ------------------- | --------------- |
+| Reliance Industries | May–June 2026   |
+| TCS                 | April–May 2026  |
+| Infosys             | May–June 2026   |
+| HDFC Bank           | May–June 2026   |
+| ICICI Bank          | May–June 2026   |
+| SBI                 | April–May 2026  |
+| Axis Bank           | May–June 2026   |
+| Kotak Mahindra Bank | May–June 2026   |
+| Bharti Airtel       | May–June 2026   |
+| ITC                 | April–May 2026  |
+| Larsen & Toubro     | May–June 2026   |
+| Maruti Suzuki       | May–June 2026   |
+| Tata Motors         | April–May 2026  |
+| Sun Pharma          | April–May 2026  |
+| NTPC                | May–June 2026   |
+| UltraTech Cement    | May–June 2026   |
+| Bajaj Finance       | April–May 2026  |
+| HCLTech             | May–June 2026   |
+| Asian Paints        | May–June 2026   |
 
 ---
 
@@ -145,7 +164,7 @@ Nifty-50-Monthly-Analysis/
 ├── 📊 nifty50_portfolio_analysis.xlsx
 ├── 📑 nifty50_report.pdf
 │
-└── 📈 Stock Analysis Reports/
+└── 📈 Nifty 50 chart Analysis /
     │
     ├── 📂 Reliance Industries/
     │
