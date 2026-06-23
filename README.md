@@ -1,7 +1,7 @@
 <h1 align="center">📈 Nifty 50 Monthly Analysis</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Market-Nifty%2050-success?style=for-the-badge&logo=nifty">
+  <img src="https://img.shields.io/badge/Market-Nifty%2050-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/Analysis-Technical-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Platform-TradingView-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Broker-Groww-brightgreen?style=for-the-badge">
@@ -16,7 +16,7 @@
 
 # 🚀 Project Overview
 
-This project presents a comprehensive technical analysis of selected Nifty 50 stocks using Price Action and Smart Money Concepts (SMC).
+This project presents a technical analysis of selected Nifty 50 stocks using Price Action and Smart Money Concepts (SMC).
 
 The analysis focuses on identifying:
 
@@ -94,7 +94,7 @@ For each stock:
 ## 5️⃣ Trade Documentation
 
 * Recorded all trade setups in Excel
-* Created structured trade journal
+* Created a structured trading journal
 * Maintained historical records
 
 ## 6️⃣ Performance Review
@@ -107,69 +107,50 @@ For each stock:
 
 # 📋 Stocks Analyzed
 
-| Stock               | Analysis Period |
-| ------------------- | --------------- |
-| Reliance Industries | May–June 2026   |
-| TCS                 | April–May 2026  |
-| Infosys             | May–June 2026   |
-| HDFC Bank           | May–June 2026   |
-| ICICI Bank          | May–June 2026   |
-| SBI                 | April–May 2026  |
-| Axis Bank           | May–June 2026   |
-| Kotak Mahindra Bank | May–June 2026   |
-| Bharti Airtel       | May–June 2026   |
-| ITC                 | April–May 2026  |
-| Larsen & Toubro     | May–June 2026   |
-| Maruti Suzuki       | May–June 2026   |
-| Tata Motors         | April–May 2026  |
-| Sun Pharma          | April–May 2026  |
-| NTPC                | May–June 2026   |
-| UltraTech Cement    | May–June 2026   |
-| Bajaj Finance       | April–May 2026  |
-| HCLTech             | May–June 2026   |
-| Asian Paints        | May–June 2026   |
+| Stock               | Analysis Type                    | Concepts Applied                                 |
+| ------------------- | -------------------------------- | ------------------------------------------------ |
+| Reliance Industries | Technical Analysis & Trade Setup | Support, Resistance, BOS, Liquidity, Risk-Reward |
+| Infosys             | Technical Analysis & Trade Setup | Support, Resistance, MSS, Liquidity, Risk-Reward |
 
 ---
 
-# 📸 Chart Analysis Components
+# 📸 Analysis Components
 
-Every stock analysis contains:
+✅ Trend Identification
 
-### 📈 Trend Analysis
+✅ Support & Resistance
 
-* Uptrend
-* Downtrend
-* Sideways Market
+✅ BOS (Break of Structure)
 
-### 🎯 Support & Resistance
+✅ MSS (Market Structure Shift)
 
-* Major Support Levels
-* Major Resistance Levels
+✅ Liquidity Zones
 
-### 🔥 BOS Analysis
+✅ Entry Confirmation
 
-* Break of Structure Confirmation
+✅ Stop Loss Placement
 
-### ⚡ MSS Analysis
+✅ Target Projection
 
-* Market Structure Shift Identification
+✅ Risk-Reward Analysis
 
-### 💧 Liquidity Analysis
+---
 
-* Buy-Side Liquidity
-* Sell-Side Liquidity
+# 📂 Repository Structure
 
-### 🎯 Trade Setup
-
-* Entry Zone
-* Stop Loss
-* Target Level
-
-### 💰 Risk Management
-
-* Risk Percentage
-* Reward Percentage
-* Risk-Reward Ratio
+```text
+Nifty-50-Monthly-Analysis/
+│
+├── 📄 README.md
+├── 📊 nifty50_portfolio_analysis.xlsx
+├── 📑 nifty50_report.pdf
+│
+└── 📈 Stock Analysis Reports/
+    │
+    ├── 📂 Reliance Industries/
+    │
+    └── 📂 Infosys/
+```
 
 ---
 
@@ -179,7 +160,7 @@ Every stock analysis contains:
 
 ✅ Price Action Trading
 
-✅ Smart Money Concepts
+✅ Smart Money Concepts (SMC)
 
 ✅ BOS Identification
 
@@ -191,43 +172,9 @@ Every stock analysis contains:
 
 ✅ Risk Management
 
+✅ Trading Journal Management
+
 ✅ Excel Documentation
-
-✅ Trading Psychology
-
----
-
-# 📁 Repository Structure
-
-```text
-Nifty-50-Monthly-Analysis/
-│
-├── README.md
-├── nifty50_portfolio_analysis.xlsx
-├── nifty50_report.pdf
-│
-└── Nifty 50 chart analysis/
-    │
-    ├── Reliance Industries/
-    ├── TCS/
-    ├── Infosys/
-    ├── HDFC Bank/
-    ├── ICICI Bank/
-    ├── SBI/
-    ├── Axis Bank/
-    ├── Kotak Mahindra Bank/
-    ├── Bharti Airtel/
-    ├── ITC/
-    ├── Larsen & Toubro/
-    ├── Maruti Suzuki/
-    ├── Tata Motors/
-    ├── Sun Pharma/
-    ├── NTPC/
-    ├── UltraTech Cement/
-    ├── Bajaj Finance/
-    ├── HCLTech/
-    └── Asian Paints/
-```
 
 ---
 
