@@ -1,7 +1,7 @@
 <h1 align="center">📈 Nifty 50 Technical Analysis</h1>
 
 <p align="center">
-  <b>Technical Analysis | TradingView | Excel | Risk Management</b>
+  <b>Technical Analysis | TradingView| Groww | Excel | Risk Management</b>
 </p>
 
 ---
@@ -14,6 +14,7 @@ This project focuses on technical analysis of selected Nifty 50 stocks using pri
 
 ## 🛠️ Tools Used
 
+*Groww
 * TradingView
 * Microsoft Excel
 * GitHub
@@ -105,7 +106,7 @@ Each chart contains:
 
 ## 👨‍💻 Author
 
-**Dineshkumar P**
+**DINESHKUMAR P**
 
 Aspiring Equity Research Analyst & Intraday Trader
 
