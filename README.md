@@ -1,7 +1,7 @@
-<h1 align="center">📈 Nifty 50 Technical Analysis</h1>
+<h1 align="center">📈 Nifty 50 [20 stocks] Technical Analysis</h1>
 
 <p align="center">
-  <b>Technical Analysis | TradingView| Groww | Excel | Risk Management</b>
+  <b>Technical Analysis | TradingView | Groww | Excel | Risk Management</b>
 </p>
 
 ---
@@ -14,8 +14,8 @@ This project focuses on technical analysis of selected Nifty 50 stocks using pri
 
 ## 🛠️ Tools Used
 
-*Groww
 * TradingView
+* Groww
 * Microsoft Excel
 * GitHub
 
@@ -25,13 +25,13 @@ This project focuses on technical analysis of selected Nifty 50 stocks using pri
 
 ### 1️⃣ Trend Analysis
 
-* Identified Uptrend, Downtrend, and Sideways markets.
-* Analyzed price movement using TradingView charts.
+* Identified Uptrend, Downtrend, and Sideways Market conditions.
+* Analyzed price action using TradingView charts.
 
 ### 2️⃣ Support & Resistance
 
-* Marked key support levels where price showed buying interest.
-* Marked resistance levels where price faced selling pressure.
+* Marked key support levels based on historical price reactions.
+* Identified major resistance zones.
 
 ### 3️⃣ Trade Setup Creation
 
@@ -44,8 +44,8 @@ For each stock:
 
 ### 4️⃣ Trade Documentation
 
-* Recorded trade setups in Excel.
-* Maintained a structured trade journal.
+* Recorded all trade setups in Excel.
+* Maintained a structured trading journal.
 
 ### 5️⃣ Performance Review
 
@@ -91,6 +91,8 @@ Each chart contains:
 
 ✅ Trade Planning
 
+✅ Trading Journal Management
+
 ✅ Excel Documentation
 
 ---
@@ -99,15 +101,17 @@ Each chart contains:
 
 * Analyze additional Nifty 50 stocks
 * Improve trade tracking dashboard
-* Include advanced market structure analysis
-* Expand historical trade data
+* Include BOS (Break of Structure)
+* Include MSS (Market Structure Shift)
+* Include Liquidity Analysis
+* Include Fair Value Gap (FVG) Analysis
 
 ---
 
 ## 👨‍💻 Author
 
-**DINESHKUMAR P**
+**Dineshkumar P**
 
 Aspiring Equity Research Analyst & Intraday Trader
 
-GitHub Portfolio Project
+📊 GitHub Portfolio Project | 2026
